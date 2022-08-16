@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -34,7 +34,7 @@
       <li>
         <a href="https://www.amazon.co.uk/Myth-Normal-Illness-Healing-Culture/dp/B09MJDT7GG/ref=sr_1_1?crid=2OFHV857ET9ME&keywords=the+myth+of+normal&qid=1660154246&s=books&sprefix=the+myth+of+normal%2Cstripbooks%2C67&sr=1-1">The Myth of Normal</a>
 
-    </ul>
+    
 
         <hr size=3 color=black>
     <h3>Work Experience</h3>
