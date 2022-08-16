@@ -86,13 +86,13 @@
 
     <table cellspacing = 10>
       <tr>
-        <td>Writing ⭐️⭐️⭐️⭐️⭐️<td>
-        <td>Researching ⭐️⭐️⭐️⭐️⭐️<td>
+        <td>Writing ⭐️⭐️⭐️⭐️⭐️</td>
+        <td>Researching ⭐️⭐️⭐️⭐️⭐️</td>
+      </tr>
       <tr>
-      <tr>
-        <td>Patient Rapport ⭐️⭐️⭐️⭐️⭐️<td>
-        <td>Stress Management ⭐️⭐️⭐️⭐️⭐️<td>
-      <tr>
+        <td>Patient Rapport ⭐️⭐️⭐️⭐️⭐️</td>
+        <td>Stress Management ⭐️⭐️⭐️⭐️⭐️</td>
+      </tr>
     </table>
 
 
