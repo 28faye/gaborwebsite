@@ -71,12 +71,7 @@
         <td>Head of Psychoneuroimmunoendocrinology at WHO</td>
 
         </tr>
-      </tr>
-
-        </td>
-
-        </td>
-      </tr>
+     
 
     </table>
 
