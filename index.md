@@ -50,17 +50,18 @@
           <th>
             Work Experience
           </th>
+        </tr>
 
         
       </thead>
       <tr>
-        <td>2005-2009
+        <td>2005-2009</td>
         <td>Head of Pallative Care at Vancouver Hospital</td>
       </tr>
       <tr>
         <td>2009-2016</td>
-        <td>Head of Oncology Dept at British Columbia Hospital
-     
+        <td>Head of Oncology Dept at British Columbia Hospital</td>
+      </tr>
       <tr>
         <td>2016-2021</td>
         <td>Researcher of Psychoneuroimmunoendocrinology at Toronto University</td>
